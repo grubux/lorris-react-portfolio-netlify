@@ -1,118 +1,160 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Bonjour",
+    "description1": " 👋 Je suis Lorris Lehuédé. Développeur web passionné et travailleur acharné, je suis la personne qui vous faut !",
+    "description2": "Une solution à un problème de développement peut me venir dans des endroits improbables : De nature curieuse et auto-didacte, je travaille avec des frameworks et librairies récentes et suis régulièrement l'actualité numérique ce qui me permet d'être à jour.",
+    "description3": "Ferez-vous partie de mon prochain challenge ? 🔥",
+    "section_name": {
+      "about": "A propos de moi",
+      "projects": "Projets",
+      "skills": "Skills",
+      "experience": "Expérience"
+    }
+  },
+  "projects": [
+    {
+      "title": "AirBnB",
+      "startDate": "2021",
+      "description": "Ma première application mobile, réalisée chez l'école Le Reacteur. C'est un projet de fin d'année, qui consiste à réaliser une application mobile pour les clients AirBnB. Cette application est développée en React Native, et utilise une API pour récupérer les données du bailleur.",
+      "images": [
+        "images/portfolio/AirBnB/mobile1-high-res.webp",
+        "images/portfolio/AirBnB/mobile2-high-res.webp",
+        "images/portfolio/AirBnB/mobile3-high-res.webp",
+        "images/portfolio/AirBnB/mobile4-high-res.webp",
+        "images/portfolio/AirBnB/mobile5-high-res.webp",
+        "images/portfolio/AirBnB/mobile6-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Mooze",
+      "startDate": "2021",
+      "description": "Homepage d'une version de l'appliation Mooze, qui sert à commander en clic & collect chez des boucheries et restaurants. Cette page contient un switch mode, vous pouvez voir les deux versions sur ces images.",
+      "images": [
+        "images/portfolio/Mooze/mobile7-high-res.webp",
+        "images/portfolio/Mooze/mobile8-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Marvel",
+      "startDate": "2020",
+      "description": "Ma premier site complet réalisé pendant ma formation chez Le Reacteur. Il utilise l'API publique officielle des super-héros Marvel. Je l'ai réalisé en autonomie, avec la librairie React.js et le combo Node.js/MongoDB.",
+      "images": [
+        "images/portfolio/Marvel/web1-high-res.webp",
+        "images/portfolio/Marvel/web2-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Deliveroo",
+      "startDate": "2020",
+      "description": "Toute première page en react, réalisée chez Le Reacteur. Elle utilise une API qui dispose des plats, et j'ai créé un système de panier, qui calcule le prix total lorsqu'on sélectionne plusieurs plats, et ce de façon dynamique.",
+      "images": [
+        "images/portfolio/Deliveroo/web3-high-res.webp",
+        "images/portfolio/Deliveroo/web4-high-res.webp"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "METRO",
+      "title": "Full Stack Developer",
+      "years": "09.2021 - present",
+      "mainTech": ["React"],
+      "technologies": [
+        "JavaScript",
+        "Typescript",
+        "MaterialUI",
+        "React.js",
+        "Node.js",
+        "REST API",
+        "PostgreSQL",
+        "Sequelize"
+      ]
+    },
+    {
+      "company": "Mooze",
+      "title": "Mobile Full Stack Developer",
+      "years": "04.2021 - 07.2021",
+      "mainTech": ["React Native"],
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "React Native",
+        "Redux",
+        "Node.js",
+        "REST API",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Pixalione",
+      "title": "Consultant SEO",
+      "years": "01.2020 - 09.2021",
+      "mainTech": ["SEO"],
+      "technologies": [
+        "Google Analytics certifié",
+        "Google Sheets automatisation",
+        "Google Apps Script",
+        "XPATH scraping",
+        "Google Sheet scraping",
+        "REGEX",
+        "Cocons sémantiques"
+      ]
+    }
+  ]
+}

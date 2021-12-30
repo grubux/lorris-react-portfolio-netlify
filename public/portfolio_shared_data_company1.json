@@ -1,7 +1,11 @@
 {
   "basic_info": {
     "name": "Lorris Lehuédé",
-    "titles": ["Web Developer", "Full Stack Developer", "Mobile App Developer"],
+    "titles": [
+      "Perfect fit for company 1",
+      "Full Stack Developer",
+      "Mobile App Developer"
+    ],
     "social": [
       {
         "name": "github",
