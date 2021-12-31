@@ -7,7 +7,7 @@ const App = () => {
     <Router basename="/lorris-react-portfolio">
       <Routes>
         <Route exact path="/" element={<Main />} />
-        <Route path="/Y6T.nHcWL8" element={<Archlet />} />
+        <Route path="/archlet" element={<Archlet />} />
       </Routes>
     </Router>
   );
