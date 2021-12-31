@@ -13,6 +13,35 @@
   },
   "projects": [
     {
+      "title": "MetroTicket",
+      "startDate": "2021",
+      "description": "A web app i created to help METRO employees calculate the cost of their purchases, taking into consideration their employee discount + the VAT amount which may vary and is not displayed in the store.",
+      "images": ["images/portfolio/metroTicket/metroTicket1.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
       "title": "AirBnB",
       "startDate": "2021",
       "description": "My first mobile application, made at Le Reacteur school. It's an end of year project, which consists in making a mobile application for AirBnB customers. This application is developed in React Native, and uses an API to retrieve data from the landlord.",

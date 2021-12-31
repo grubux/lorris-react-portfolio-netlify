@@ -65,7 +65,7 @@ class Main extends Component {
 
   loadSharedData() {
     $.ajax({
-      url: `portfolio_shared_data_company1.json`,
+      url: `portfolio_shared_data_archlet.json`,
       dataType: "json",
       cache: false,
       success: function (data) {
