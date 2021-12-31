@@ -13,6 +13,42 @@
   },
   "projects": [
     {
+      "title": "MetroTicket",
+      "startDate": "2021",
+      "description": "Une application mobile que j'ai créée pour que les employés de METRO puisse calculer le coût de revien de leurs articles achetés dans ce magasin en prenant en compte leur réduction employé et la TVa qui n'est pas affichée en magasin.",
+      "images": [
+        "images/portfolio/AirBnB/mobile1-high-res.webp",
+        "images/portfolio/AirBnB/mobile2-high-res.webp",
+        "images/portfolio/AirBnB/mobile3-high-res.webp",
+        "images/portfolio/AirBnB/mobile4-high-res.webp",
+        "images/portfolio/AirBnB/mobile5-high-res.webp",
+        "images/portfolio/AirBnB/mobile6-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
       "title": "AirBnB",
       "startDate": "2021",
       "description": "Ma première application mobile, réalisée chez l'école Le Reacteur. C'est un projet de fin d'année, qui consiste à réaliser une application mobile pour les clients AirBnB. Cette application est développée en React Native, et utilise une API pour récupérer les données du bailleur.",
@@ -33,6 +69,10 @@
         {
           "class": "devicon-nodejs-plain",
           "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
         },
         {
           "class": "devicon-mongodb-plain",
@@ -59,6 +99,10 @@
           "name": "Node.js"
         },
         {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
           "class": "devicon-mongodb-plain",
           "name": "MongoDB"
         }
@@ -76,11 +120,15 @@
       "technologies": [
         {
           "class": "devicon-react-plain",
-          "name": "React Native"
+          "name": "React.js"
         },
         {
           "class": "devicon-nodejs-plain",
           "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
         },
         {
           "class": "devicon-mongodb-plain",
@@ -101,10 +149,6 @@
         {
           "class": "devicon-react-original",
           "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
         }
       ]
     }

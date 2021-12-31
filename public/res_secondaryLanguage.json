@@ -13,6 +13,42 @@
   },
   "projects": [
     {
+      "title": "AirBnB",
+      "startDate": "2021",
+      "description": "My first mobile application, made at Le Reacteur school. It's an end of year project, which consists in making a mobile application for AirBnB customers. This application is developed in React Native, and uses an API to retrieve data from the landlord.",
+      "images": [
+        "images/portfolio/AirBnB/mobile1-high-res.webp",
+        "images/portfolio/AirBnB/mobile2-high-res.webp",
+        "images/portfolio/AirBnB/mobile3-high-res.webp",
+        "images/portfolio/AirBnB/mobile4-high-res.webp",
+        "images/portfolio/AirBnB/mobile5-high-res.webp",
+        "images/portfolio/AirBnB/mobile6-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
       "title": "Mooze",
       "startDate": "2021",
       "description": "Homepage of a version of the Mooze application, which is used to order in click & collect from butcheries and restaurants. This page contains a switch mode, you can see both versions on these pictures.",
@@ -31,32 +67,8 @@
           "name": "Node.js"
         },
         {
-          "class": "devicon-mongodb-plain",
-          "name": "MongoDB"
-        }
-      ]
-    },
-    {
-      "title": "AirBnB",
-      "startDate": "2021",
-      "description": "My first mobile application, made at Le Reacteur school. It's an end of year project, which consists in making a mobile application for AirBnB customers. This application is developed in React Native, and uses an API to retrieve data from the landlord.",
-      "images": [
-        "images/portfolio/AirBnB/mobile1-high-res.webp",
-        "images/portfolio/AirBnB/mobile2-high-res.webp",
-        "images/portfolio/AirBnB/mobile3-high-res.webp",
-        "images/portfolio/AirBnB/mobile4-high-res.webp",
-        "images/portfolio/AirBnB/mobile5-high-res.webp",
-        "images/portfolio/AirBnB/mobile6-high-res.webp"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React Native"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
+          "name": "Express.js",
+          "class": "devicon-express-original"
         },
         {
           "class": "devicon-mongodb-plain",
@@ -76,11 +88,15 @@
       "technologies": [
         {
           "class": "devicon-react-plain",
-          "name": "React Native"
+          "name": "React.js"
         },
         {
           "class": "devicon-nodejs-plain",
           "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
         },
         {
           "class": "devicon-mongodb-plain",

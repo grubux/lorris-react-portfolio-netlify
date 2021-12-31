@@ -1,13 +1,13 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Main from "./containers/Main";
-import Company1 from "./containers/Company1";
+import Archlet from "./containers/Archlet";
 const App = () => {
   return (
     <Router basename="/lorris-react-portfolio">
       <Routes>
         <Route exact path="/" element={<Main />} />
-        <Route path="/company1" element={<Company1 />} />
+        <Route path="/Y6T.nHcWL8" element={<Archlet />} />
       </Routes>
     </Router>
   );

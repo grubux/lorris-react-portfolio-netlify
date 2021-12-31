@@ -56,13 +56,33 @@
         "level": "60"
       },
       {
-        "name": "NodeJS",
+        "name": "Express.js",
+        "class": "devicon-express-original",
+        "level": "60"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "Jest",
         "class": "devicon-jest-plain colored",
         "level": "60"
       },
       {
         "name": "MongoDB",
         "class": "devicon-mongodb-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original colored",
+        "level": "60"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux-plain",
         "level": "60"
       }
     ]

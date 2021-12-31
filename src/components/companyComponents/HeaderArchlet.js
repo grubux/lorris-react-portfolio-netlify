@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
 
-import mainLogo from "./mainLogo.png";
+import mainLogo from "./archlet.png";
 
 class Header extends Component {
   titles = [];

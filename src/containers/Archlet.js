@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import "../App.scss";
-import Header from "../components/Header";
+import Header from "../components/companyComponents/HeaderArchlet";
 import Footer from "../components/Footer";
 import About from "../components/About";
 import Experience from "../components/Experience";
