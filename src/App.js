@@ -6,8 +6,8 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route exact path="/archlet" element={Archlet} />
-        <Route exact path="/" element={Main} />
+        <Route path="/archlet" element={<Archlet />} />
+        <Route path="/" element={<Main />} />
       </Routes>
     </Router>
   );
