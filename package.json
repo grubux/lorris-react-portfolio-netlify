@@ -1,5 +1,6 @@
 {
   "name": "lorris-react-portfolio",
+  "homepage": "https://grubux.github.io/lorris-react-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
