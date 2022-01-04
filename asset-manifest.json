@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css",
+    "main.js": "/lorris-react-portfolio/static/js/main.faba1644.chunk.js",
+    "main.js.map": "/lorris-react-portfolio/static/js/main.faba1644.chunk.js.map",
+    "runtime-main.js": "/lorris-react-portfolio/static/js/runtime-main.84963664.js",
+    "runtime-main.js.map": "/lorris-react-portfolio/static/js/runtime-main.84963664.js.map",
+    "static/css/2.9c389199.chunk.css": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css",
+    "static/js/2.4e66804b.chunk.js": "/lorris-react-portfolio/static/js/2.4e66804b.chunk.js",
+    "static/js/2.4e66804b.chunk.js.map": "/lorris-react-portfolio/static/js/2.4e66804b.chunk.js.map",
+    "index.html": "/lorris-react-portfolio/index.html",
+    "precache-manifest.75ee4249be041bf28a7c60169d6b0704.js": "/lorris-react-portfolio/precache-manifest.75ee4249be041bf28a7c60169d6b0704.js",
+    "service-worker.js": "/lorris-react-portfolio/service-worker.js",
+    "static/css/2.9c389199.chunk.css.map": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css.map",
+    "static/css/main.4588be86.chunk.css.map": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css.map",
+    "static/js/2.4e66804b.chunk.js.LICENSE.txt": "/lorris-react-portfolio/static/js/2.4e66804b.chunk.js.LICENSE.txt",
+    "static/media/mainLogo.png": "/lorris-react-portfolio/static/media/mainLogo.63270399.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84963664.js",
+    "static/css/2.9c389199.chunk.css",
+    "static/js/2.4e66804b.chunk.js",
+    "static/css/main.4588be86.chunk.css",
+    "static/js/main.faba1644.chunk.js"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "description_header": "Greetings",
+    "description1": " 👋 I am Lorris Lehuédé. Passionate web developer and hard worker, I'm the right person for you!",
+    "description2": "A solution to a development problem can come to me in unlikely places: Curious and self-taught by nature, I work with recent frameworks and libraries and regularly follow the digital news which allows me to be up-to-date.",
+    "description3": "Will you bring me my next challenge? 🔥",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "MetroTicket",
+      "startDate": "2021",
+      "description": "A web app i created to help METRO employees calculate the cost of their purchases, taking into consideration their employee discount + the VAT amount which may vary and is not displayed in the store.",
+      "images": ["images/portfolio/metroTicket/metroTicket1.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "AirBnB",
+      "startDate": "2021",
+      "description": "My first mobile application, made at Le Reacteur school. It's an end of year project, which consists in making a mobile application for AirBnB customers. This application is developed in React Native, and uses an API to retrieve data from the landlord.",
+      "images": [
+        "images/portfolio/AirBnB/mobile1-high-res.webp",
+        "images/portfolio/AirBnB/mobile2-high-res.webp",
+        "images/portfolio/AirBnB/mobile3-high-res.webp",
+        "images/portfolio/AirBnB/mobile4-high-res.webp",
+        "images/portfolio/AirBnB/mobile5-high-res.webp",
+        "images/portfolio/AirBnB/mobile6-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Mooze",
+      "startDate": "2021",
+      "description": "Homepage of a version of the Mooze application, which is used to order in click & collect from butcheries and restaurants. This page contains a switch mode, you can see both versions on these pictures.",
+      "images": [
+        "images/portfolio/Mooze/mobile7-high-res.webp",
+        "images/portfolio/Mooze/mobile8-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Marvel",
+      "startDate": "2020",
+      "description": "My first complete website made during my training at Le Reacteur. It uses the official public API of Marvel superheroes. I realized it in autonomy, with the React.js library and the Node.js/MongoDB combo.",
+      "images": [
+        "images/portfolio/Marvel/web1-high-res.webp",
+        "images/portfolio/Marvel/web2-high-res.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Deliveroo",
+      "startDate": "2020",
+      "description": "Very first page in react, made at Le Reacteur. It uses an API that displays the dishes, and I created a shopping cart system, which calculates the total price when you select several dishes, in a dynamic way.",
+      "images": [
+        "images/portfolio/Deliveroo/web3-high-res.webp",
+        "images/portfolio/Deliveroo/web4-high-res.webp"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "METRO",
+      "title": "Full Stack Developer",
+      "years": "09.2021 - present",
+      "mainTech": ["React"],
+      "technologies": [
+        "JavaScript",
+        "Typescript",
+        "MaterialUI",
+        "React.js",
+        "Node.js",
+        "REST API",
+        "PostgreSQL",
+        "Sequelize"
+      ]
+    },
+    {
+      "company": "Mooze",
+      "title": "Mobile Full Stack Developer",
+      "years": "04.2021 - 07.2021",
+      "mainTech": ["React Native"],
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "React Native",
+        "Redux",
+        "Node.js",
+        "REST API",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Pixalione",
+      "title": "Consultant SEO",
+      "years": "01.2020 - 09.2021",
+      "mainTech": ["SEO"],
+      "technologies": [
+        "Google Analytics certifié",
+        "Google Sheets automatisation",
+        "Google Apps Script",
+        "XPATH scraping",
+        "Google Sheet scraping",
+        "REGEX",
+        "Cocons sémantiques"
+      ]
+    }
+  ]
+}
