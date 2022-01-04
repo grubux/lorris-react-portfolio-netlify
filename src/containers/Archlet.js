@@ -8,7 +8,7 @@ import Experience from "../components/Experience";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
 
-class Main extends Component {
+class Archlet extends Component {
   constructor(props) {
     super();
     this.state = {
@@ -138,4 +138,4 @@ class Main extends Component {
   }
 }
 
-export default Main;
+export default Archlet;

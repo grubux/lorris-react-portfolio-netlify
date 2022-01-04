@@ -6,7 +6,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/archlet" element={<Archlet />} />
+        <Route exact path="/archlet" element={<Archlet />} />
         <Route exact path="/" element={<Main />} />
       </Routes>
     </Router>
