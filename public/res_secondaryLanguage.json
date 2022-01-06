@@ -188,17 +188,17 @@
     },
     {
       "company": "Pixalione",
-      "title": "Consultant SEO",
+      "title": "SEO consultant",
       "years": "01.2020 - 09.2020",
       "mainTech": ["SEO"],
       "technologies": [
-        "Google Analytics certifié",
-        "Google Sheets automatisation",
+        "Google Analytics certified",
+        "Google Sheets automation",
         "Google Apps Script",
         "XPATH scraping",
         "Google Sheet scraping",
-        "REGEX",
-        "Cocons sémantiques"
+        "RegEx",
+        "Semantic cocoon"
       ]
     }
   ]
