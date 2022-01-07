@@ -48,6 +48,11 @@
         "level": "60"
       },
       {
+        "name": "React Native",
+        "class": "devicon-react-plain colored",
+        "level": "60"
+      },
+      {
         "name": "MaterialUI",
         "class": "devicon-materialui-plain colored",
         "level": "60"
@@ -85,6 +90,16 @@
       {
         "name": "GitHub",
         "class": "devicon-github-original",
+        "level": "60"
+      },
+      {
+        "name": "Heroku",
+        "class": "devicon-heroku-original colored",
+        "level": "60"
+      },
+      {
+        "name": "SSH",
+        "class": "devicon-ssh-original-wordmark",
         "level": "60"
       },
       {

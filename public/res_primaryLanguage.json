@@ -104,7 +104,7 @@
     {
       "title": "Marvel",
       "startDate": "2020",
-      "description": "Ma premier site complet réalisé pendant ma formation chez Le Reacteur. Il utilise l'API publique officielle des super-héros Marvel. Je l'ai réalisé en autonomie, avec la librairie React.js et le combo Node.js/MongoDB.",
+      "description": "Mon premier site complet réalisé pendant ma formation chez Le Reacteur. Il utilise l'API publique officielle des super-héros Marvel. Je l'ai réalisé en autonomie, avec la librairie React.js et le combo Node.js/MongoDB.",
       "images": [
         "images/portfolio/Marvel/web1-high-res.webp",
         "images/portfolio/Marvel/web2-high-res.webp"

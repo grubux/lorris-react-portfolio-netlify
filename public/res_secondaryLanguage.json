@@ -44,7 +44,7 @@
     {
       "title": "AirBnB",
       "startDate": "2021",
-      "description": "My first mobile application, made at Le Reacteur school. It's an end of year project, which consists in making a mobile application for AirBnB customers. This application is developed in React Native, and uses an API to retrieve data from the landlord.",
+      "description": "My first mobile application, made at Le Reacteur school. It's an end-of-year project, which consists in making a mobile application for Airbnb customers. This application is developed in React Native and uses an API to retrieve data from the landlord.",
       "images": [
         "images/portfolio/AirBnB/mobile1-high-res.webp",
         "images/portfolio/AirBnB/mobile2-high-res.webp",
@@ -108,7 +108,7 @@
     {
       "title": "Marvel",
       "startDate": "2020",
-      "description": "My first complete website made during my training at Le Reacteur. It uses the official public API of Marvel superheroes. I realized it in autonomy, with the React.js library and the Node.js/MongoDB combo.",
+      "description": "My first complete website was made during my training at Le Reacteur. It uses the official public API of Marvel superheroes. I realized it in autonomy, with the React.js library and the Node.js/MongoDB combo.",
       "images": [
         "images/portfolio/Marvel/web1-high-res.webp",
         "images/portfolio/Marvel/web2-high-res.webp"
@@ -136,7 +136,7 @@
     {
       "title": "Deliveroo",
       "startDate": "2020",
-      "description": "Very first page in react, made at Le Reacteur. It uses an API that displays the dishes, and I created a shopping cart system, which calculates the total price when you select several dishes, in a dynamic way.",
+      "description": "My first page in react, made at Le Reacteur. It uses an API that displays the dishes, and I created a shopping cart system, which calculates the total price when you select several dishes, dynamically.",
       "images": [
         "images/portfolio/Deliveroo/web3-high-res.webp",
         "images/portfolio/Deliveroo/web4-high-res.webp"
