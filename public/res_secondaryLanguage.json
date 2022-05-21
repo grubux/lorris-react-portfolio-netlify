@@ -13,6 +13,25 @@
   },
   "projects": [
     {
+      "title": "Regex-Right-Click-Replace",
+      "startDate": "2022",
+      "description": "A Google Chrome extension which modifies the DOM to change the text on the current tab, can replace characters and case, thanks to a context menu (right click).",
+      "images": [
+        "images/portfolio/RegexRightClickReplace/regex-regex-click-replace.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JS"
+        }
+      ]
+    },
+    {
       "title": "MetroTicket",
       "startDate": "2021",
       "description": "A web app i created to help METRO employees calculate the cost of their purchases, taking into consideration their employee discount + the VAT amount which may vary and is not displayed in the store.",
@@ -38,25 +57,6 @@
         {
           "class": "devicon-mongodb-plain",
           "name": "MongoDB"
-        }
-      ]
-    },
-    {
-      "title": "Regex-Right-Click-Replace",
-      "startDate": "2022",
-      "description": "A Google Chrome extension which modifies the DOM to change the text on the current tab, can replace characters and case, thanks to a context menu (right click).",
-      "images": [
-        "images/portfolio/RegexRightClickReplace/regex-regex-click-replace.png"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React.js"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JS"
         }
       ]
     },
