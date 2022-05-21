@@ -41,7 +41,7 @@
       },
 
       {
-        "name": "ReactJS",
+        "name": "ReactJS/Native",
         "class": "devicon-react-plain colored",
         "level": "60"
       },
@@ -78,6 +78,16 @@
       {
         "name": "Redux",
         "class": "devicon-redux-original colored",
+        "level": "60"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "NGINX",
+        "class": "devicon-nginx-original colored",
         "level": "60"
       },
       {

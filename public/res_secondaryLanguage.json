@@ -42,6 +42,25 @@
       ]
     },
     {
+      "title": "Regex-Right-Click-Replace",
+      "startDate": "2022",
+      "description": "A Google Chrome extension which modifies the DOM to change the text on the current tab, can replace characters and case, thanks to a context menu (right click).",
+      "images": [
+        "images/portfolio/RegexRightClickReplace/regex-regex-click-replace.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JS"
+        }
+      ]
+    },
+    {
       "title": "AirBnB",
       "startDate": "2021",
       "description": "My first mobile application, made at Le Reacteur school. It's an end-of-year project, which consists in making a mobile application for Airbnb customers. This application is developed in React Native and uses an API to retrieve data from the landlord.",

@@ -42,6 +42,25 @@
       ]
     },
     {
+      "title": "Regex-Right-Click-Replace",
+      "startDate": "2022",
+      "description": "Une extension chrome qui modifie le DOM pour modifier un texte dans un input sur n'importe quelle page, pouvant modifier la casse ainsi que remplacer des caractères, grâce à un context menu (clic droit).",
+      "images": [
+        "images/portfolio/RegexRightClickReplace/regex-regex-click-replace.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JS"
+        }
+      ]
+    },
+    {
       "title": "AirBnB",
       "startDate": "2021",
       "description": "Ma première application mobile, réalisée chez l'école Le Reacteur. C'est un projet de fin d'année, qui consiste à réaliser une application mobile pour les clients AirBnB. Cette application est développée en React Native, et utilise une API pour récupérer les données du bailleur.",
